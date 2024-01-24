@@ -5,7 +5,7 @@
     <title>INGENIERIA DE SOFTWARE</title>
 </head>
 <body>
-       <h2>WALDIR KEVIN TORRES CANQUI</h2>
+       <h2>Joseph Elvis Mamani Mendoza</h2>
         <h2>INGENIERIA DE SOFTWARE</h2>  
 </body>
 </html>
